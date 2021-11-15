@@ -37,6 +37,10 @@ footer{
     flex: 1 0 0;
 }
 aside{
-    width: 50%;
+    width: 100%;
+}
+.container{
+    max-width: 980px;
+    margin: 0 auto;
 }
 
